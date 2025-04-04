@@ -1,0 +1,12 @@
+Tunnel diodes are electrical components often used in RF (radio frequency) applications where designs
+requiring negative resistance is needed. The most common application for these diodes are in oscillators,
+detectors, and amplifiers, and switching circuits where the negatove resistance property of tunnel diodes
+are useful.
+
+Tunnel diodes operate on the principle of Quantum Mechanical Tunneling, where electrons pass through a 
+potential energy barrier. This gives the diode the unique property of negative resistance, where the 
+more voltage you apply, the less current flows. It would seem it follows a negative ohms law, where
+I = R/V.
+
+What makes tunnel diodes special is their extremely low junction capacitance, making them useful in 
+applications where high frequencies are used. 
