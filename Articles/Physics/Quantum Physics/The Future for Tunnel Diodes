@@ -9,4 +9,21 @@ more voltage you apply, the less current flows. It would seem it follows a negat
 I = R/V.
 
 What makes tunnel diodes special is their extremely low junction capacitance, making them useful in 
-applications where high frequencies are used. 
+applications where high frequencies are used. Microwave oscillators and radar applications are sectors
+where the unique nature of the tunnel diode come into play.
+
+The tunnel diode, however, is an old invention, being invented in 1957 by Leo Esaki and Yuriko Kurose at 
+Tokyo Tsushin Kogyo, now known as Sony. This invention was used in specialized places in the late 20th 
+century, however, as other semiconductor technologies improved, subsitutes for tunnel diodes also increased.
+
+Eventually, silicon semiconductor technology reached a level enough to make tunnel diodes obsolete in most
+of the sectors it once used to dominate. However, a lasting impact tunnel diodes left was the introduction of
+practical quantum mechanics for electronics, which we can now see developed as quantum computers.
+
+The development of quantum computers actually plays a role in the future of tunnel diodes, despite their 
+obsolescence in most sectors. Silicon based tunnel diodes are a fairly new development, and is being put to
+the test. The most intriguing thing about quantum tunneling in electronic components is that quantum tunneing
+is instant, faster than light, which is why tunnel diodes also performed so well in high speed circuits.
+
+The integration of tunnel diodes into standard semiconductor circuits could increase the speed and performance
+of them, reaching boundaries beyond what standard silicon semiconductors can achieve.
