@@ -1,1 +1,24 @@
-Quantum bad
+Quantum computing is a contemporary technology often touted for its high speed and
+power for computing numbers. The developments have been set to improve humanity as
+a whole, by potentially processing difficult numbers to solve a plethora of 
+problems, to make computing faster, or even simply providing a gate way for 
+commercial consumer quantum computing. A home quantum computer, how cool is that!
+
+However, is a much more sinister side to quantum computing, but not for the reason 
+you might think. The modern internet relies on algorithms such as RSA and ECC for
+encryption, which themsevles depend on the difficulties of factoring large prime
+numbers. For any standard computer set up, no matter how powerful, it is a large
+challenge. Quantum computers' ability to crunch numbers effectivly poses an
+enormous threat to this system. If a hacker or even a quantum computer reasearcher
+with malicous intents uses a quantum computer to bypass the difficulties of negating
+RSA and ECC algorithms, the privacy and security of the internet could be put at
+risk.
+
+The internet is not the only system threatened by the serious computing power of
+said computers, as the encryption method of many defense deparments for countries
+also depend of the challange of factoring prime numbers. This said, quantum
+computing poses a threat to the national security of many countries, prompting
+the encouragement of the development of new future proof encryption methods.
+
+This serious and current threat is large concern and is a caveat to the development
+of quantum computing. 
